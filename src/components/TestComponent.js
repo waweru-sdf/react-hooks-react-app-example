@@ -13,7 +13,10 @@ function TestComponent() {
         title="time video"
         allowFullScreen
       ></iframe>
+       <h2>This is the Test Component</h2>
     </div>
+  
+    
   );
 }
 
